@@ -1,11 +1,19 @@
 package corejava_package;
-//package corejava_package;
-import java.sql.Connection;// 1st step
+
+import java.sql.Connection;// 1st step import file 
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+// jdbc statements
+//1.import package
+//2.load and register driver
+//3.establish the connection
+//4.create the statement
+//5.execute the query
+//6.process result
+//7.close
 public class DemoClass {
 
 	
